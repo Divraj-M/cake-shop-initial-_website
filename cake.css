@@ -1,0 +1,33 @@
+body {
+    background: url("https://images.pexels.com/photos/804170/pexels-photo-804170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+div{
+    background-color:rgb(0, 0, 0);
+    opacity: 0.8;
+    height: 45%;
+    width: 45%;
+    color: rgb(255, 255, 255);
+    margin: 170px auto;
+    text-align: center;
+    border-radius: 50px;
+    padding: 0%;
+}
+button{
+    background-color: green;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+button:hover{
+    color: rgb(248, 248, 248);
+}
+button:active{
+    color: red;
+}
+i{
+    font-size: 55px;
+    padding: 20px;
+    color: blue;
+}
