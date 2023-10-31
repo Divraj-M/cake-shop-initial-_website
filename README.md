@@ -11,6 +11,7 @@ The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This
 # Dependencies
 
 Before running the code, ensure you have the following dependencies installed on your system:
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
 
 <i class="fab fa-python"></i> Python 3.x 
 <i class="fab fa-Jupyter"></i> Jupyter Notebook Pandas Matplotlib NumPy
