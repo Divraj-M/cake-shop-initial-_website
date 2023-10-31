@@ -12,7 +12,8 @@ The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This
 
 Before running the code, ensure you have the following dependencies installed on your system:
 
-Python 3.x Jupyter Notebook Pandas Matplotlib NumPy
+<i class="fab fa-python"></i> Python 3.x 
+<i class="fab fa-Jupyter"></i> Jupyter Notebook Pandas Matplotlib NumPy
 
 # Running the Code Follow these steps to run the code:
 
