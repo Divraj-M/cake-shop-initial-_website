@@ -13,8 +13,9 @@ The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This
 Before running the code, ensure you have the following dependencies installed on your system:
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
 
-<i class="fab fa-python"></i> Python 3.x 
-<i class="fab fa-Jupyter"></i> Jupyter Notebook Pandas Matplotlib NumPy
+- For an attractive icon, you can use a Font Awesome icon like this: <i class="fab fa-github"></i>
+- For a technology badge, you can use a Shields.io badge like this: ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<i class="fab fa-python"></i> Python 3.x Jupyter Notebook Pandas Matplotlib NumPy
 
 # Running the Code Follow these steps to run the code:
 
