@@ -1,19 +1,20 @@
 # Stock Price Prediction🚀 
-#Microsoft Lifetime Stocks Analysis
+# Microsoft Lifetime Stocks Analysis
 
 This README provides instructions for running the code and outlines the necessary dependencies for analyzing the Microsoft Lifetime Stocks dataset. The code is provided in a Jupyter Notebook (.ipynb) format.
 
-Dataset Description The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This dataset contains historical stock price data for Microsoft Corporation from its initial public offering (IPO) in 1986 to the present day. The dataset includes information such as Date, Open Price, Close Price, High Price, Low Price, Volume, and Adjusted Close Price.
+# Dataset Description: 
+The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This dataset contains historical stock price data for Microsoft Corporation from its initial public offering (IPO) in 1986 to the present day. The dataset includes information such as Date, Open Price, Close Price, High Price, Low Price, Volume, and Adjusted Close Price.
 
 <bold>Dataset Link</bold>:https:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset
 
-###Dependencies
+# Dependencies
 
 Before running the code, ensure you have the following dependencies installed on your system:
 
 Python 3.x Jupyter Notebook Pandas Matplotlib NumPy
 
-###Running the Code Follow these steps to run the code:
+# Running the Code Follow these steps to run the code:
 
 1.Download the Dataset:
 
@@ -31,7 +32,7 @@ Open a terminal or command prompt and navigate to the directory containing the J
 
 4.Open the Jupyter Notebook:
 
-Once Jupyter Notebook is running, open the Jupyter Notebook file (e.g., Microsoft_Stock_Analysis.ipynb) from the Jupyter Notebook dashboard.
+Once Jupyter Notebook is running, open the Jupyter Notebook file (e.g., MSFT.ipynb) from the Jupyter Notebook dashboard.
 
 5.Execute the Cells:
 
@@ -45,4 +46,6 @@ Follow the instructions in the Notebook to analyze the Microsoft Lifetime Stocks
 
 You can save the Notebbook with your changes and export the results as needed.
 
-For any questions or issues, please contact https://chat.openai.com/c/ea338a33-3ad7-4753-9ac3-1c436cb286f7.
+For any questions or issues, please contact # BARATHRAJ S K AND team.
+
+
